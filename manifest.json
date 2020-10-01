@@ -1,7 +1,7 @@
 {
   "name": "PhoneScriptBuilder",
   "short_name": "PhoneScriptBuilder",
-  "start_url": "./",
+  "start_url": "./PhoneScriptBuilder/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
