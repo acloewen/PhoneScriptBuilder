@@ -1,6 +1,7 @@
 ﻿self.assetsManifest = {
-  "assets": [
-    {
+   "assets": [
+    /*
+	{
       "hash": "sha256-SxLQdpE358ZfGwdIgzAh33NXkKMnIEmA96IAk9YHx2Y=",
       "url": "_content\/Syncfusion.Blazor\/scripts\/accordion-c79415.min.js"
     },
@@ -780,6 +781,6 @@
       "hash": "sha256-9VEW002x\/iGif\/sUrc1ge\/RTjoLTKwR5HJipCzOC9Ww=",
       "url": "_framework\/blazor.boot.json"
     }
-  ],
+  ],*/
   "version": "OiNaQaKU"
 };
