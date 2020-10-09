@@ -467,8 +467,7 @@
     {
       "hash": "sha256-Cg95J+rgammST9csbo5txcmvfzfLnAUGvcico1dvAho=",
       "url": "apple-touch-icon.png"
-    }/*
-	,
+    },
     {
       "hash": "sha256-w0iw1t89kA7+965LTfyLYrFzewTQnUWE\/vJDIRwmaGY=",
       "url": "browserconfig.xml"
@@ -488,7 +487,8 @@
     {
       "hash": "sha256-VvTsx9SD9L\/EvDFElV02SsViePBn8NXtupGZuwXQA3Y=",
       "url": "favicon-32x32.png"
-    },
+    }/*
+	,
     {
       "hash": "sha256-5aRCo4IVfCLSdzvnV5X4T923gdXHF+8MOzjk8sI6H0w=",
       "url": "favicon.ico"
