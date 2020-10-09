@@ -1,7 +1,7 @@
 {
   "name": "PhoneScriptBuilder",
   "short_name": "PhoneScriptBuilder",
-  "start_url": "/acloewen.github.io/",
+  "start_url": "https://acloewen.github.io/",
   "pathPrefix": "PhoneScriptBuilder",
   "display": "standalone",
   "background_color": "#ffffff",
