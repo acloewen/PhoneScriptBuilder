@@ -780,7 +780,7 @@
     {
       "hash": "sha256-9VEW002x\/iGif\/sUrc1ge\/RTjoLTKwR5HJipCzOC9Ww=",
       "url": "_framework\/blazor.boot.json"
-    }
-  ],*/
+    }*/
+  ],
   "version": "OiNaQaKU"
 };
