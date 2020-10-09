@@ -1,10 +1,10 @@
 ﻿self.assetsManifest = {
    "assets": [
-    /*
 	{
       "hash": "sha256-SxLQdpE358ZfGwdIgzAh33NXkKMnIEmA96IAk9YHx2Y=",
       "url": "_content\/Syncfusion.Blazor\/scripts\/accordion-c79415.min.js"
-    },
+    }
+	/*,
     {
       "hash": "sha256-GrP04FS+I2GN\/sXt6STCBBPr3TbNeAaOG4LPBhzH7J4=",
       "url": "_content\/Syncfusion.Blazor\/scripts\/accumulationchart-c79415.min.js"
