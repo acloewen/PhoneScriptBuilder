@@ -487,8 +487,7 @@
     {
       "hash": "sha256-VvTsx9SD9L\/EvDFElV02SsViePBn8NXtupGZuwXQA3Y=",
       "url": "favicon-32x32.png"
-    }/*
-	,
+    },
     {
       "hash": "sha256-5aRCo4IVfCLSdzvnV5X4T923gdXHF+8MOzjk8sI6H0w=",
       "url": "favicon.ico"
@@ -496,7 +495,8 @@
     {
       "hash": "sha256-9uXSTWr\/yZ5zK+7c4RjzfGuJQGR\/\/5zuPo5bJ9H\/OLw=",
       "url": "Icons\/export.svg"
-    },
+    }/*
+	,
     {
       "hash": "sha256-aFzurKZYt4F8W7cD8RxY8LbNOtmKiJK9dSpeYcdrWBk=",
       "url": "Icons\/filenew.svg"
