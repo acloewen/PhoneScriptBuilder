@@ -495,8 +495,7 @@
     {
       "hash": "sha256-9uXSTWr\/yZ5zK+7c4RjzfGuJQGR\/\/5zuPo5bJ9H\/OLw=",
       "url": "Icons\/export.svg"
-    }/*
-	,
+    },
     {
       "hash": "sha256-aFzurKZYt4F8W7cD8RxY8LbNOtmKiJK9dSpeYcdrWBk=",
       "url": "Icons\/filenew.svg"
@@ -536,7 +535,8 @@
     {
       "hash": "sha256-OEq2bGikWjgd766Trw15HJZr+fS6boPjhWpKO+RqsPU=",
       "url": "js\/JavaScript.js"
-    },
+    }
+	/*,
     {
       "hash": "sha256-U7LR+MUVkBbPsurwUK2vPX522wADYXzqSi1msRX17mU=",
       "url": "manifest.json"
