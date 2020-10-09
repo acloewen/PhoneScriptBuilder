@@ -459,8 +459,7 @@
     {
       "hash": "sha256-MGcPdFpIe0qumTZ0K5Ua0rNuhco4U8KK+FEzrpv2LQc=",
       "url": "android-chrome-192x192.png"
-    }
-	/*,
+    },
     {
       "hash": "sha256-gR05dNbvAX5RgF\/EgBeVeRvGk1ACVoATIAvKFdu3pH8=",
       "url": "android-chrome-512x512.png"
@@ -468,7 +467,8 @@
     {
       "hash": "sha256-Cg95J+rgammST9csbo5txcmvfzfLnAUGvcico1dvAho=",
       "url": "apple-touch-icon.png"
-    },
+    }/*
+	,
     {
       "hash": "sha256-w0iw1t89kA7+965LTfyLYrFzewTQnUWE\/vJDIRwmaGY=",
       "url": "browserconfig.xml"
