@@ -455,13 +455,12 @@
     {
       "hash": "sha256-\/n8hxridi+BE7KMcprL53dUE3gYZvzuPp3syUZ07ims=",
       "url": "_content\/BlazorInputFile\/inputfile.js"
-    }
-	/*
-	,
+    },
     {
       "hash": "sha256-MGcPdFpIe0qumTZ0K5Ua0rNuhco4U8KK+FEzrpv2LQc=",
       "url": "android-chrome-192x192.png"
-    },
+    }
+	/*,
     {
       "hash": "sha256-gR05dNbvAX5RgF\/EgBeVeRvGk1ACVoATIAvKFdu3pH8=",
       "url": "android-chrome-512x512.png"
