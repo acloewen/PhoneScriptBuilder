@@ -3,8 +3,7 @@
 	{
       "hash": "sha256-SxLQdpE358ZfGwdIgzAh33NXkKMnIEmA96IAk9YHx2Y=",
       "url": "_content\/Syncfusion.Blazor\/scripts\/accordion-c79415.min.js"
-    }
-	/*,
+    },
     {
       "hash": "sha256-GrP04FS+I2GN\/sXt6STCBBPr3TbNeAaOG4LPBhzH7J4=",
       "url": "_content\/Syncfusion.Blazor\/scripts\/accumulationchart-c79415.min.js"
@@ -456,7 +455,9 @@
     {
       "hash": "sha256-\/n8hxridi+BE7KMcprL53dUE3gYZvzuPp3syUZ07ims=",
       "url": "_content\/BlazorInputFile\/inputfile.js"
-    },
+    }
+	/*
+	,
     {
       "hash": "sha256-MGcPdFpIe0qumTZ0K5Ua0rNuhco4U8KK+FEzrpv2LQc=",
       "url": "android-chrome-192x192.png"
