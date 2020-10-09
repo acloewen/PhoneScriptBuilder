@@ -38,13 +38,12 @@ async function onFetch(event) {
         // For all navigation requests, try to serve index.html from cache
         // If you need some URLs to be server-rendered, edit the following check to exclude those URLs
         
-		//const shouldServeIndexHtml = event.request.mode === 'navigate';
-
-        //const request = shouldServeIndexHtml ? 'index.html' : event.request;
-        //const cache = await caches.open(cacheName);
-        //cachedResponse = await cache.match(request);
+		const shouldServeIndexHtml = event.request.mode === 'navigate';
+        const request = shouldServeIndexHtml ? 'index.html' : event.request;
+        const cache = await caches.open(cacheName);
+        cachedResponse = await cache.match(request);
     }
 
-    //return cachedResponse || fetch(event.request);
+    return cachedResponse || fetch(event.request);
 }
 /* Manifest version: OiNaQaKU */
