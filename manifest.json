@@ -1,11 +1,10 @@
 {
   "name": "PhoneScriptBuilder",
   "short_name": "PhoneScriptBuilder",
-  "start_url": "https://acloewen.github.io/PhoneScriptBuilder/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
-  "scope": "https://acloewen.github.io/PhoneScriptBuilder/",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
