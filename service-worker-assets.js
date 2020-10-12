@@ -540,7 +540,8 @@
     {
       "hash": "sha256-U7LR+MUVkBbPsurwUK2vPX522wADYXzqSi1msRX17mU=",
       "url": "manifest.json"
-    },
+    }
+	*/,
     {
       "hash": "sha256-93vZW129xh7cfDpWG+7fvGaLF56GfZVSD5zmgrcVd7s=",
       "url": "mstile-150x150.png"
@@ -772,8 +773,7 @@
     {
       "hash": "sha256-UC\/3Rm1NkdNdlIrzYARo+dO\/HDlS5mhPxo0IQv7kma8=",
       "url": "_framework\/wasm\/dotnet.wasm"
-    }
-	*/,
+    },
     {
       "hash": "sha256-SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=",
       "url": "_framework\/blazor.webassembly.js"
