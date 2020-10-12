@@ -550,7 +550,8 @@
     {
       "hash": "sha256-kc9rG4CBxs+toEOh8fScc4zEvaH43ciWVuJzNFBd4cY=",
       "url": "safari-pinned-tab.svg"
-    },
+    }
+	/*,
     {
       "hash": "sha256-qfr461rMZ4dYSXPv9gcPYEbYa\/NjrmVdif72+pTImnU=",
       "url": "_framework\/_bin\/BlazorInputFile.dll"
@@ -782,7 +783,7 @@
     {
       "hash": "sha256-9VEW002x\/iGif\/sUrc1ge\/RTjoLTKwR5HJipCzOC9Ww=",
       "url": "_framework\/blazor.boot.json"
-    }
+    }*/
   ],
   "version": "OiNaQaKU"
 };
