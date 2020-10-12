@@ -532,7 +532,7 @@
     {
       "hash": "sha256-dp\/AHDQmpMcpYh54OGoy4tpe6UhJOvLVDO96wMPYeRk=",
       "url": "index.html"
-    }*/
+    }
 	,
     {
       "hash": "sha256-OEq2bGikWjgd766Trw15HJZr+fS6boPjhWpKO+RqsPU=",
@@ -541,7 +541,8 @@
     {
       "hash": "sha256-U7LR+MUVkBbPsurwUK2vPX522wADYXzqSi1msRX17mU=",
       "url": "manifest.json"
-    },
+    }*/
+	,
     {
       "hash": "sha256-93vZW129xh7cfDpWG+7fvGaLF56GfZVSD5zmgrcVd7s=",
       "url": "mstile-150x150.png"
