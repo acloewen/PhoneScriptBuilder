@@ -361,13 +361,55 @@ app {
     font-weight: bold;
     color: var(--purple-off);
     grid-row: 1/2;
+    display: grid;
+    grid-template-columns: fit-content(200px) 1fr;
 }
+.errtooltip {
+    grid-column: 2/3;
+    display: inline-block;
+    position: relative;
+}
+.errtooltipdos {
+    display: inline-block;
+    position: relative;
+}
+.errtooltip .tooltiptext {
+    background-color: var(--purple-main);
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    top: 25px;
+}
+.errtooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.errtooltipdos .tooltiptext {
+    background-color: var(--purple-main);
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    color: #fff;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    top: 25px;
+    left: -80px;
+}
+
+.errtooltipdos:hover .tooltiptext {
+    visibility: visible;
+}
+
 .datacollectiontext {
-    font-family: var(--secondary-font);
-    font-size: 16px;
-    color: var(--purple-grey);
-    grid-row: 2/3;
-    overflow: hidden;
+   font-family: var(--secondary-font);
+   font-size: 16px;
+   color: var(--purple-grey);
+   grid-row: 2/3;
+   overflow: hidden;
 }
 .navigationstuff {
     grid-column: 3/4;
@@ -380,6 +422,8 @@ app {
     font-weight: bold;
     color: var(--purple-off);
     grid-row: 1/2;
+    display: grid;
+    grid-template-columns: fit-content(200px) 1fr;
 }
 .navigationtext {
     font-family: var(--secondary-font);
@@ -390,6 +434,8 @@ app {
 }
 .buttonstuff {
     grid-column: 4/5;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
 }
 .trashpanelbutton {
     background-color: transparent;
